@@ -8,6 +8,7 @@
 >icon(已保存为压缩包)
 	>ACLineEnd
 	>xxx
+>images				--本文件所用图片
 >model(已保存为压缩包)
 	icon_model		--不选择retrain时使用的model，可修改icon_classify使用别的model
 	icon_model_test	--retrain后保存的model，可修改名称
@@ -32,12 +33,12 @@ README.md			--本文件
 
 - 解压icon.rar与model.rar，icon文件夹下生成如下文件夹
 
-![capture_20210923191206608](https://gitee.com/AD_39/img/raw/master/img/20210928084137.bmp)
+<img src="images/capture_20210923191206608.bmp" alt="capture_20210923191206608" style="zoom: 67%;" />
 
 - 运行data_process.ipynb，生成train与val，比例大致为9：1，可以修改该val_rate
 - 运行 main.py
 
-![capture_20210923191443910](https://gitee.com/AD_39/img/raw/master/img/20210928084425.bmp)
+<img src="images/capture_20210923191443910.bmp" alt="capture_20210923191443910" style="zoom: 67%;" />
 
 应该一开始是没有model的，所以第一次必须retrain，之后保存模型的名字可以自己修改。
 
@@ -73,4 +74,4 @@ ps：其实不太明白为啥它居然能分出来，因为好多图肉眼看0°
 
 pps：用sample试了一下（全应该是0°），准确率80左右，也很奇怪。因为sample（pdf截图）里面好多图像本身就是对称的
 
-![capture_20210925100333140](https://gitee.com/AD_39/img/raw/master/img/capture_20210925100333140.bmp)![capture_20210925100156514](https://gitee.com/AD_39/img/raw/master/img/capture_20210925100156514.bmp)
+![capture_20210925100333140](images/capture_20210925100333140.bmp)![capture_20210925100156514](images/capture_20210925100156514.bmp)
