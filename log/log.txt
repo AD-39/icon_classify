@@ -1,0 +1,363 @@
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=icon_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 6724 samples.
+INFO - Cost time: 4.966001987457275
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=icon_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 2708 samples.
+INFO - Cost time: 1.8589975833892822
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=angle_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 2708 samples.
+INFO - Cost time: 2.153536796569824
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - Retrain over!
+INFO - Cost time: 3973.7221965789795
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 4.383999824523926
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 173.16727352142334
+INFO - 268/316=0.8481012658227848
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=angle_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 2708 samples.
+INFO - Cost time: 2.8753292560577393
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - Retrain over!
+INFO - Cost time: 626.2990982532501
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 0.22701311111450195
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 69.92399859428406
+INFO - 268/316=0.8481012658227848
+INFO - ------------------------------------------
+INFO - Init success! retrain=False,             model_save_name=angle_model, show_val=True
+INFO - Load model...
+INFO - ------------------------------------------
+INFO - Init success! retrain=False,             model_save_name=angle_model, show_val=True
+INFO - Load model...
+INFO - Load over!
+INFO - Cost time: 0.21900057792663574
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 1.6469995975494385
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 68.78699803352356
+INFO - 268/316=0.8481012658227848
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=angle_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 2708 samples.
+INFO - Cost time: 14.102999210357666
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - Retrain over!
+INFO - Cost time: 705.3015456199646
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 0.21499943733215332
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 92.11699771881104
+INFO - 0/316=0.0
+INFO - ------------------------------------------
+INFO - Init success! retrain=False,             model_save_name=angle_model, show_val=True
+INFO - Load model...
+INFO - Load over!
+INFO - Cost time: 0.14898967742919922
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 0.1569974422454834
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 66.11600279808044
+INFO - 0/316=0.0
+INFO - ------------------------------------------
+INFO - Init success! retrain=False,             model_save_name=angle_model, show_val=True
+INFO - Load model...
+INFO - Load over!
+INFO - Cost time: 0.15199947357177734
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 19.987858057022095
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 64.22205996513367
+INFO - ------------------------------------------
+INFO - Init success! retrain=False,             model_save_name=angle_model, show_val=True
+INFO - Load model...
+INFO - Load over!
+INFO - Cost time: 0.167999267578125
+INFO - Start load val data...
+INFO - Load over! Total 316 samples.
+INFO - Cost time: 0.15599822998046875
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 66.22299671173096
+INFO - 268/316=0.8481012658227848
+INFO - ------------------------------------------
+INFO - Init success! retrain=True,             model_save_name=angle_model_test, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 804 samples.
+INFO - Cost time: 0.8204455375671387
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - Retrain over!
+INFO - Cost time: 61.632084369659424
+INFO - Start load val data...
+INFO - Load over! Total 116 samples.
+INFO - Cost time: 0.16099882125854492
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 8.679228067398071
+INFO - 112/116=0.9655172413793104
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True,             model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - Load over! Total 11 samples.
+INFO - Cost time: 33.23228311538696
+INFO - Retraining ACLineEnd model...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_dir=angle_model_test, show_val=True
+INFO - Start retrain, it may cost 1-30 minutes...
+INFO - Start load train data...
+INFO - Load over! Total 6716 samples.
+INFO - Cost time: 5.243606090545654
+INFO - Retraining ACLineEnd model...
+INFO - Retraining Bus model...
+INFO - Retraining Capacitor model...
+INFO - Retraining CBreaker model...
+INFO - Retraining Disconnector model...
+INFO - Retraining Generator model...
+INFO - Retraining GroundDisconnector model...
+INFO - Retraining Reactor model...
+INFO - Retraining SVG model...
+INFO - Retraining Transformer2 model...
+INFO - Retraining Transformer3 model...
+INFO - Retrain over!
+INFO - Cost time: 846.1424045562744
+INFO - Start load val data...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.6605596542358398
+INFO - Start load val data...
+INFO - Load over! Total 10 samples.
+INFO - Cost time: 3.720423460006714
+INFO - Start classify...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.5726962089538574
+INFO - Start load val data...
+INFO - Load over! Total 10 samples.
+INFO - Cost time: 0.5534062385559082
+INFO - Start classify...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.5745742321014404
+INFO - Start load val data...
+INFO - Load over! Total 10 samples.
+INFO - Cost time: 0.44599080085754395
+INFO - Start classify...
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.5045921802520752
+INFO - Start load val data...
+INFO - Load over! Total 10 samples.
+INFO - Cost time: 0.4553964138031006
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 147.61857080459595
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.6116769313812256
+INFO - Start load val data...
+INFO - Load over! Total 740 samples.
+INFO - Cost time: 0.514103889465332
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 90.6685676574707
+INFO - ACLineEnd: 88/92=0.9565217391304348
+INFO - Bus: 20/32=0.625
+INFO - Capacitor: 12/16=0.75
+INFO - CBreaker: 132/148=0.8918918918918919
+INFO - Disconnector: 176/192=0.9166666666666666
+INFO - Generator: 12/12=1.0
+INFO - GroundDisconnector: 212/228=0.9298245614035088
+INFO - Reactor: 4/4=1.0
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=True
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.5210170745849609
+INFO - Start load val data...
+INFO - Load over! Total 740 samples.
+INFO - Cost time: 0.49153923988342285
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 105.07099223136902
+INFO - ACLineEnd: 88/92=0.9565217391304348
+INFO - Bus: 20/32=0.625
+INFO - Capacitor: 12/16=0.75
+INFO - CBreaker: 132/148=0.8918918918918919
+INFO - Disconnector: 176/192=0.9166666666666666
+INFO - Generator: 12/12=1.0
+INFO - GroundDisconnector: 212/228=0.9298245614035088
+INFO - Reactor: 4/4=1.0
+INFO - Transformer2: 8/8=1.0
+INFO - Transformer3: 8/8=1.0
+INFO - Total result: 672/740=0.9081081081081082
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=False
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.7382349967956543
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=False, model_save_dir=angle_model_test, show_val=False
+INFO - Load model...
+INFO - Load ACLineEnd model succeed!
+INFO - Load Bus model succeed!
+INFO - Load Capacitor model succeed!
+INFO - Load CBreaker model succeed!
+INFO - Load Disconnector model succeed!
+INFO - Load Generator model succeed!
+INFO - Load GroundDisconnector model succeed!
+INFO - Load Reactor model succeed!
+INFO - Load SVG model succeed!
+INFO - Load Transformer2 model succeed!
+INFO - Load Transformer3 model succeed!
+INFO - Load over!
+INFO - Cost time: 0.597226619720459
+INFO - ------------------------------------------
+INFO - Init succeed! retrain=True, model_save_name=icon_model, show_val=True
+INFO - Start retrain...
+INFO - Start load train data, it may cost 1-60 seconds...
+INFO - Load over! Total 6644 samples.
+INFO - Cost time: 22.12902283668518
+INFO - Start fit, it may cost 1-30 minutes...
+INFO - Retrain over!
+INFO - Cost time: 2085.991453886032
+INFO - Start load val data...
+INFO - Load over! Total 812 samples.
+INFO - Cost time: 2.833421468734741
+INFO - Start classify...
+INFO - classify over!
+INFO - Cost time: 249.4536235332489
+INFO - 744/812=0.916256157635468
